@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+h2 {
+    color: black;
+    font-size: 14px;
+    font-family: Verdana;
+    font-style: italic;
+    font-weight: normal;
+}
+
+p {
+    color: black;
+    font-size: 12px;
+    font-family: Verdana;
+    line-height: 200%;
+}
+
+th {
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+td {
+    color: black;
+    font-size: 12px;
+    font-family: Verdana;
+}
